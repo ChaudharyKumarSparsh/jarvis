@@ -4,7 +4,7 @@ A voice assistant inspired by Jarvis from Iron Man, built as my 4th-year college
 Say "Jarvis" and give it a command.
 
 ## Features
-- Wake word: only responds when you say "Jarvis"
+- Wake word: only responds when you say "Jarvis", "harry"
 - Tells the time and date
 - Opens websites ("Jarvis, open YouTube")
 - Finds files on your laptop by name and opens them
